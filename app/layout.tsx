@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next"
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Full Stack & AI Developer | Portfolio',
+  title: 'Denis Mirchev | Full Stack & AI Developer',
   description: 'Full Stack Developer specializing in modern web applications, AI integrations, and rapid MVP development for startups.',
 };
 
